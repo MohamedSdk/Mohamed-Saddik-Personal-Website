@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Mohamed Saddik",
+    "occupation":"Software Developer",
+    "description":" currently employed by ",
+    "employer":"Juniper Innovating Travel Technology",
+    "jobDescription":"front end developer",
+    "image":"profile_pic.jpg",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit and passion for programming. Innovating Travel Technology hired me as a front-end developer, where I am still working. Regardless of my job, I love creating and contributing to open source projects. It helps me learn a lot, acquire new skills and grow as a developer.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "mohamed9307@hotmail.com",
+    "phone": "+34 631600415",
+    "address":{
+      "street":"Calle Mayor/51",
+      "city":"Petra",
+      "state":"Balearic Islands, Spain",
+      "zip": "07520"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/19CfwQUHv9aUHl2pgJizgR3xWX4wNtFya/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mohamed.saddik.7",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mohamed.saddik.7",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MohamedSdk",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am passionate about programming and I am always interested in learning and touching new technologies, but these are the ones that have really won me over:",
+    "education":[
+      {
+        "school":"Island Balearic University (UIB)",
+        "degree":"Degree in Telematics Engineering ",
+        "graduated":"Expected June 2018",
+        "description":"Here I graduated from Telematics Engineering and got a much more comprehensive education in the theory, concepts, and underlying science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and discovered that I have a gift for understanding complex algorithms."
+      },
+      {
+        "school":"Ies Manacor",
+        "degree":"Electrical and Automatic Installations",
+        "graduated":"June 2012",
+        "description":"Here you learn how to configure and calculate facilities and equipment, assemble the component elements of low voltage distribution networks and auxiliary elements, assemble the equipment and conduits associated with electrical and automated installations and telecommunications infrastructures in buildings, install and maintain rotating electrical machines. and static. As well as configure and program the electronic devices of a home automation home, here where you discover my passion for programming. Finally learn how to prepare budgets, technical and administrative documentation and verify the complete operation of the installation."
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Juniper Innovating Travel Technology",
+        "title": "Front End Developer",
+        "years": "August 2017 - Present",
+        "description": "Here I have had the opportunity to dig deep and get my hands dirty with all the parts of our software. I have worked a lot with .NET technology as a legacy backend. I have also worked a lot with technologies like JS, Jquery, Bootstrap, Sass, handlebars, Node js and Git as a front end."
+      },
+      {
+        "company":"Electrica Moragues Florit S.L.",
+        "title":"Electric Installator",
+        "years":"July 2012 - October 2012",
+        "description":"This was my first and only job as an electrical installer, here I apply most of my knowledge learned in the course of Electrical and Automatic Installations in real life. Although the period was very short because I decided to go to university and dedicate myself to what I am more passionate about than programming and that is what I am currently dedicating to, but it was a very nice experience."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Java",
+        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"java.jpg"
+      },
+      {
+        "name":".NET",
+        "description":".Net the programming language that I touch daily where I am currently working. I started using it about three years ago and am very familiar with it in terms of data structure and algorithm programming.",
+        "image":"net.jpg"
+      },
+      {
+        "name":"React Js",
+        "description":"I'm fairly new to React and didn't really like it at first. However, it has grown in me and I will continue to use it in the future. By the way this same page is created entirely with ReactJS.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Sass",
+        "description":"I use Sass alongside Bootsrap most of the time when designing my site layouts. It is the framework that I am most familiar with and can therefore design more quickly than others.",
+        "image":"sass.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"JavaScript",
+        "description":"JavaScript was my first client-side programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data structure and algorithm programming.",
+        "image":"js.jpg"
+      },  
+      {
+        "name":"MySql",
+        "description":"I have used many different database systems and am better educated and experienced with relational databases. However, for many applications, the ease of use of MySql suits my needs better and is much more pleasant to work with.",
+        "image":"mysql.jpg"
+      }
+        ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/tbakerx/react-resume-template"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
